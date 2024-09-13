@@ -1,0 +1,5 @@
+train: C:/Users/Neha KB/Desktop/humanhead/train/image
+val: C:/Users/Neha KB/Desktop/humanhead/val/image
+
+nc: 2
+names: ['head', 'person']
